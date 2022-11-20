@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![ferwis2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferwis2003)]
+[![ferwis2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferwis2003)](https://github.com/Feenri03)
 
 <!--
 **ferwis2003/ferwis2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
