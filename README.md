@@ -13,7 +13,11 @@ const ferwis2003 = {
   tools: [Angular, Boostrap, GitHub],
 }
 ```
-                                                                                                                                                     
+     
+
+## You can find me 🌎:
+- [Twitter] (https://twitter.com/Ferwis003)
+- [Instagram] (https://www.instagram.com/ferwis_rijo25/)
                                                                                                                                                      
                                                                                                                                                      
 [![ferwis2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferwis2003)](https://github.com/ferwis2003)
