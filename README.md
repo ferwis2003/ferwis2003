@@ -6,7 +6,13 @@
 
                                                                                                                                                      
 ## About me in Code
-                                                                                                                                                     
+ ```js
+const ferwis2003 = {
+  pronouns: "he" | "him",
+  code: [JavaScript, Typescript, HTML, CSS],
+  tools: [Angular, Boostrap, GitHub],
+}
+```
                                                                                                                                                      
                                                                                                                                                      
                                                                                                                                                      
