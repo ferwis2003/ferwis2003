@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/Ferwis003">
-  <img align="left" alt="Ferwis003" | Twitter" width="21px" src"https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-                                                                                                                                                    </a>
+  <img align="left" alt="Ferwis003" | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+                                                                                                                                                    
 [![ferwis2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferwis2003)](https://github.com/ferwis2003)
+[![ferwis2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferwis2003)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ferwis2003/ferwis2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
