@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Ferwis Rijo</h1>
 <h3 align="center">A passionate frontend developer from La Romana, Dominican Republic.</h3>
 
@@ -49,7 +42,7 @@ const ferwis2003 = {
 
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferwis2003&show_icons=true&locale=en&layout=compact" alt="ferwis2003" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferwis2003&show_icons=true&locale=en" alt="ferwis2003" /></p>
 
 
