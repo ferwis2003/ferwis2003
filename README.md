@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, Angular**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Angular**
+- 💬 Ask me about **HTML, CSS, Angular**
 
 - 📫 How to reach me **rijoferwis@gmail.com**
 
